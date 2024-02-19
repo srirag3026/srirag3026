@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a new learner here and interesting in exploring GitHub.
+- 👋 Hi, I’m a new learner here and interesting in exploring GitHub. This is my first repository.
 
 
 <!---
